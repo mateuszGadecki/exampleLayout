@@ -5,12 +5,6 @@ Website created on the basis of the layout created in figma for the purposes of 
 
 ---
 
-## Setup
-
-Clone this repo to your desktop and run `npm install` to install all the dependencies.
-
----
-
 ## Usage
 
 After you clone this repo to your desktop, install in your IDE an extension that will allow you to turn on the page on the server.
